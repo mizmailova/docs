@@ -114,6 +114,8 @@ Sample use cases for dropping events and properties are:
 
 By dropping an event, you can intercept and drop incoming events. Mixpanel won’t store any new data for the event you select to drop. 
 
+Note: you need to be a Project Owner to have the permission to drop data in Lexicon. Have a look at the ![Project Roles](https://docs.mixpanel.com/docs/admin/organizations-projects/manage-team-members#project-roles) for detailed permissions.
+
 To drop an event in Lexicon:
 
 1. Select an event to drop. The Drop icon appears.
